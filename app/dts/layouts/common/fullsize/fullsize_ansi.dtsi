@@ -1,3 +1,4 @@
+#include <layouts/common/fullsize/position_map.dtsi>
 #include <physical_layouts.dtsi>
 
 / {
