@@ -39,5 +39,5 @@ uint8_t lithium_ion_mv_to_pct(int16_t bat_mv) {
         return 0;
     }
 
-    return bat_mv / 10 - 199;
+    return bat_mv / 10 - 200;
 }
